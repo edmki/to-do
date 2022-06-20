@@ -4,8 +4,6 @@ import { Delete } from "@styled-icons/material";
 export const Container = styled.div`
     display: flex;
     flex-direction: row;
-    width: 100%;
-    margin: auto;
     margin-bottom: 10px;
     align-items: center;
     position: relative;
